@@ -1,0 +1,7 @@
+Timestamp,Severity,AttackType,Interface,SourceIp,TargetNode,Port,AnomalyScore,ActionTaken,Status
+2026-03-22 22:06:58,CRITICAL,PortScan,Ethernet (eth0),10.17.132.56,Web Server Alpha,80,0.965,MONITORING,Log Recorded
+2026-03-22 22:06:58,CRITICAL,PortScan,Wi-Fi (wlan0),10.98.250.78,Web Server Alpha,443,0.982,MONITORING,Log Recorded
+2026-03-22 22:06:58,CRITICAL,PortScan,Ethernet (eth0),53.62.111.23,Database Cluster,3306,0.941,MONITORING,Log Recorded
+2026-03-22 22:12:15,CRITICAL,Bot,Wi-Fi (wlan0),185.220.101.5,DMZ Gateway,8080,1.000,ISOLATED_NODE,Auto-Quarantined
+2026-03-22 22:15:30,CRITICAL,DDoS,Ethernet (eth0),192.168.1.105,App Server Beta,80,0.995,FIREWALL_RULE_ADDED,Blocked
+2026-03-22 22:18:42,WARNING,Probe,Wi-Fi (wlan0),172.16.0.42,Internal API Node,22,0.850,WARNING_ALERT,Scanning Blocked

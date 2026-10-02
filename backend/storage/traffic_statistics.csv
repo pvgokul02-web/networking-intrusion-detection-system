@@ -1,0 +1,6 @@
+PacketId,Interface,Timestamp,Protocol,SrcIp,DstIp,DstPort,FlowDuration,FwdPackets,BwdPackets,FwdLenMax,Label
+1,Ethernet (eth0),2026-03-22 22:00:01,TCP,10.17.132.56,10.0.1.15,80,27.50,3,1,6.0,PortScan
+2,Wi-Fi (wlan0),2026-03-22 22:00:02,TCP,10.98.250.78,10.0.1.15,443,125.40,42,28,512.0,Bot
+3,Ethernet (eth0),2026-03-22 22:00:03,UDP,192.168.1.105,10.0.1.20,80,5.20,1,1,0.0,DDoS
+4,Wi-Fi (wlan0),2026-03-22 22:00:04,TCP,172.16.0.42,10.0.1.10,22,14.80,1,1,6.0,BENIGN
+5,Ethernet (eth0),2026-03-22 22:00:05,TCP,10.17.200.12,10.0.1.12,80,18.30,1,1,6.0,BENIGN

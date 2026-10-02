@@ -1,0 +1,6 @@
+{
+  "name": "Self-Healing NIDS",
+  "description": "Self-healing network intrusion detection system with real-time ML anomaly detection, automated node isolation, IP blocking, and adaptive firewall rules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
